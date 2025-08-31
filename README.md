@@ -1,5 +1,5 @@
 # welcome to my portfolio
 
 
-     # https://diwakardev.lovable.app/
+https://diwakardev.lovable.app/
      
