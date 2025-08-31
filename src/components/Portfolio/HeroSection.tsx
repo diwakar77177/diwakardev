@@ -26,8 +26,8 @@ const HeroSection = () => {
           {/* Text Content */}
           <div className="text-center lg:text-left">
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-poppins font-bold mb-6">
-              <span className="text-foreground">MR</span>{' '}
-              <span className="text-primary">DIWAKAR</span>
+              <span className="text-foreground">Mr</span>{' '}
+              <span className="text-primary">Diwakar</span>
             </h1>
             
             <div className="text-xl sm:text-2xl font-medium text-accent mb-4">
@@ -94,7 +94,7 @@ const HeroSection = () => {
               <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-card border-4 border-card-border">
                 <img 
                   src={profileImage} 
-                  alt="MR DIWAKAR - Developer Profile" 
+                  alt="Mr Diwakar - Developer Profile" 
                   className="w-full h-full object-cover"
                 />
               </div>

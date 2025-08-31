@@ -49,7 +49,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="text-center">
             <p className="text-foreground-muted flex items-center justify-center">
-              © {currentYear} MR DIWAKAR. Made with{' '}
+              © {currentYear} Mr Diwakar. Made with{' '}
               <Heart className="w-4 h-4 mx-1 text-red-500 fill-current" />
               and lots of code.
             </p>
