@@ -48,7 +48,7 @@ const ContactSection = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/diwakar77",
+      href: "https://www.linkedin.com/in/diwakar77/",
       color: "hover:text-blue-400"
     }
   ];
